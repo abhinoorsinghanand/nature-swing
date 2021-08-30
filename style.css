@@ -1,0 +1,21 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+section
+{
+	display: flex;
+	background: url(images/bg.png);
+	background-position: center;
+	background-size: cover;
+	min-height: 100vh;
+	align-content: center;
+	justify-content: center;
+	display: grid;
+	place-items: centre;
+}
